@@ -13,5 +13,5 @@ Collaborative work was involved in some of them. However, only the parts I have 
 
 ## 🌸 Acknowledgments
 
-- [Unicaen](https://www.unicaen.fr/)
+- [Université de Caen Normandie - Unicaen](https://www.unicaen.fr/)
 - [UFR des Sciences](https://ufr-sciences.unicaen.fr/)
