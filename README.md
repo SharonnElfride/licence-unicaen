@@ -11,7 +11,7 @@ This Git repository contains some of my computer science bachelor's projects.
 Collaborative work was involved in some of them. However, only the parts I have completed are listed in this repository.
 
 
-## Acknowledgments
+## 🌸 Acknowledgments
 
 - [Unicaen](https://www.unicaen.fr/)
 - [UFR des Sciences](https://ufr-sciences.unicaen.fr/)
